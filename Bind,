@@ -1,0 +1,10 @@
+--[[Read before using :
+important note : when you are in the binded maze execute my script quickly because it has an anti NPC so when you execute
+the NPC will not be able to damage you .
+about method 2 : No Alchemist : when you use this method in the main game it will teleports you to binded maze , and when you use it there you will get
+the badge (this method does not need alchemist to use but since devs might patch this method i added method 1 to get this glove even when method 2 gets patched,
+if this dev patch this method use  1 .
+about method 1 : alchemist : you must use this method at lobby , this method needs alchemist glove unlocked , when you use in main game it gets you
+a potion called lost potion , use it to get teleported to binded maze , when you use this method there you will get the badge 
+you can use any methods ]]
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Dusty1234567890/Bind-G/refs/heads/main/Bind'))()
